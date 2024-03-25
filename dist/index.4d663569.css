@@ -1,11 +1,69 @@
-body {
-  color: #1f1f1f;
-  background: linear-gradient(#bada55, #c0ffee);
-  height: 100vh;
+:root {
+  --primaryColor: #c63b26;
+  --secondaryColor: #1f3026;
+  --pureWhiteColor: white;
+  --pureBlackColor: black;
 }
 
-h1 {
-  color: #8a2be2;
-  font-family: cursive;
+* body {
+  margin: 0;
+}
+
+* ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+* a {
+  color: inherit;
+  text-decoration: none;
+}
+
+html {
+  color: var(--pureWhiteColor);
+  font-family: Poppins, sans-serif;
+}
+
+.background-image .title {
+  margin: 0;
+  position: fixed;
+  top: 128px;
+  left: 64px;
+}
+
+.background-image h1 {
+  color: var(--pureWhiteColor);
+  margin: 0;
+  font-size: 64px;
+}
+
+.background-image ul {
+  gap: 12px;
+  display: flex;
+}
+
+.background-image li {
+  outline: 1px solid #fff;
+  outline: 1px solid var(--pureWhiteColor);
+  border-radius: 16px;
+  padding: 4px 24px;
+}
+
+.background-image li:hover {
+  background-color: #c63b26;
+  background-color: var(--primaryColor);
+  outline: 1px solid #c63b26;
+  outline: 1px solid var(--primaryColor);
+}
+
+header {
+  color: var(--primaryColor);
+}
+
+.background-image {
+  background-image: url("portadaLittleSimz.36088f3e.jpg");
+  background-size: cover;
+  height: 100vh;
 }
 /*# sourceMappingURL=index.4d663569.css.map */
