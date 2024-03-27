@@ -19,18 +19,23 @@ html{
   margin: 0;
 }
 
-.background-image ul{
+nav ul{
   display: flex;
   gap: 12px;
 }
 
-.background-image li{
+nav ul li{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 4px 24px;
   outline: 1px solid var(--pureWhiteColor);
   border-radius: 16px;
 }
+  
 
-.background-image li:hover{
+
+nav ul li:hover{
   background-color: var(--primaryColor);
   outline: 1px solid var(--primaryColor);
 }
@@ -43,5 +48,32 @@ header{
   background-image: url('assets/portadaLittleSimz.jpg');
   background-size: cover;
   height: 100vh;
+}
+
+@media (max-width: 576px) {
+  .background-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .background-image .title{
+    position: static;
+    margin: 0 64px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .background-image h1{
+    font-size: 48px;
+  }
+
+  nav ul{
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+  }
 }
 
