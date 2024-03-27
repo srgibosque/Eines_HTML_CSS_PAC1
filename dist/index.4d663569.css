@@ -5,6 +5,7 @@
   --pureBlackColor: black;
   --grey: #252525;
   --lightGrey: #f8f8f8;
+  --secondaryText: #757575;
 }
 
 * body {
@@ -106,7 +107,7 @@
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
-  padding: 24px;
+  padding: 16px;
   display: inline-flex;
 }
 
@@ -130,12 +131,64 @@
   line-height: normal;
 }
 
-.album .year-songs {
+.year-songs {
+  color: var(--secondaryText);
   align-self: stretch;
   align-items: flex-start;
   gap: 8px;
   height: auto;
   display: flex;
+}
+
+.album-info {
+  border-bottom: 1px solid #f8f8f8;
+  border-bottom: 1px solid var(--lightGrey);
+  gap: 16px;
+  padding: 24px 0;
+  display: flex;
+}
+
+.album-info img {
+  border-radius: 8px;
+  width: 240px;
+  height: 240px;
+}
+
+.album-info h3 {
+  color: var(--lightGrey);
+  font-family: EB Garamond;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.song {
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  display: flex;
+}
+
+.song .song-number-title {
+  align-items: center;
+  gap: 36px;
+  display: flex;
+}
+
+.song .songTitle {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  display: flex;
+}
+
+.songTitle > p:first-child {
+  font-weight: 600;
+}
+
+.song-number-title > p {
+  color: var(--secondaryText);
 }
 
 html {
@@ -151,7 +204,7 @@ body {
 main {
   max-width: 900px;
   margin: 0 auto;
-  padding: 24px;
+  padding: 0 24px;
 }
 
 p {

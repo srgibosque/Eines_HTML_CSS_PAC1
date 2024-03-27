@@ -1,0 +1,49 @@
+.album-info{
+  display: flex;
+  gap: 16px;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--lightGrey);
+}
+
+.album-info img{
+  width: 240px;
+  height: 240px;
+  border-radius: 8px;
+}
+
+.album-info h3{
+  color: var(--lightGrey);
+  font-family: "EB Garamond";
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.song{
+  padding: 8px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.song .song-number-title{
+  display: flex;
+  align-items: center;
+  gap: 36px;
+}
+
+.song .songTitle{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+.songTitle > p:first-child{
+  font-weight: 600;
+}
+
+.song-number-title > p{
+  color: var(--secondaryText);
+}
