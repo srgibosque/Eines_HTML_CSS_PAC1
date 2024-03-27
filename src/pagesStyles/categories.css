@@ -1,0 +1,42 @@
+.albums{
+  display: flex;
+  align-items: flex-start;
+  align-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.album{
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px;
+  border-radius: 8px;
+  gap: 8px;
+}
+
+.album:hover{
+  background-color: var(--secondaryColor);
+}
+
+.album img{
+  width: 240px;
+  height: 240px;
+  border-radius: 8px;
+}
+
+.album h3{
+  color: var(--lightGrey);
+  font-family: "EB Garamond";
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.album .year-songs{
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  align-self: stretch;
+  height: auto;
+}

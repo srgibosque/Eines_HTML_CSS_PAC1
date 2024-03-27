@@ -1,4 +1,4 @@
-10568
+10584
 107C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2024\InternalizeJSONProperty.js133555075643028297 0
 104C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2021\ToPropertyDescriptor.js133555075649475720 0
 77C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\source-map-js133555051975193158 1
@@ -11,7 +11,7 @@
 89C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\lines-and-columns\LICENSE133555051971338721 0
 85C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\csso\dist\csso.esm.js133555051980853224 0
 139C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Comment.js133555051975591468 0
-55C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist133560105024042116 1
+55C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist133560248687894497 1
 132C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare133555051978970423 1
 105C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\lmdb\node_modules\node-addon-api\index.js133555052005645516 0
 100C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\validate-npm-package-license\LICENSE133555075633097741 0
@@ -31,7 +31,7 @@
 95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\utility-types\dist\index.js.map133555051975166908 0
 84C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\wrap-ansi\index.d.ts133555075633581409 0
 111C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\input-placeholder.js133555051992365618 0
-66C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.html133560102940402081 0
+66C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.html133560248687512213 0
 121C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\css-select\node_modules\domhandler\lib\esm\index.d.ts.map133555051973884880 0
 100C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\npm-run-all\node_modules\chalk\types133555075634087334 1
 85C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\svgo\plugins\_path.js133555051978820036 0
@@ -41,13 +41,13 @@
 94C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\semver\internal\identifiers.js133555051975193158 0
 97C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\object.assign\.github\FUNDING.yml133555075635428271 0
 101C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2022\BigInt\unaryMinus.js133555075650214773 0
-69C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\enllacos.html133560105024032073 0
+69C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\enllacos.html133560248687880418 0
 95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\transformer-svg\LICENSE133555051987784390 0
 105C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\css-regions.js133555051989373506 0
 136C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133555052004334817 0
 86C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\wrap-ansi-cjs\index.js133555075632767766 0
 82C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\tslib\package.json133555051973462056 0
-74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.4d663569.css133560102940402081 0
+74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.4d663569.css133560248687512213 0
 113C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\css-tree\cjs\syntax\node\common\feature-range.cjs133555051978691317 0
 92C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2015\MakeDate.js133555075644871020 0
 69C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\cuint133555117549847057 1
@@ -70,7 +70,7 @@
 78C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\categories.c15c6341.js133560102940402081 0
 92C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2023\truncate.js133555075649898089 0
 74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\fill-range133555051972067834 1
-86C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\portadaLittleSimz.36088f3e.jpg133560102940545399 0
+86C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\portadaLittleSimz.36088f3e.jpg133560248687299805 0
 115C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133555051972585991 0
 99C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2023\BigIntBitwiseOp.js133555075638613429 0
 89C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\string-width\package.json133555075633085688 0
@@ -80,7 +80,7 @@
 97C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\type-fest\source\stringified.d.ts133555051978252846 0
 92C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\node-releases\data\processed133555051971728647 1
 94C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\posthtml-match-helper\index.js133555125953641058 0
-65C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\index.html133560094587496088 0
+65C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\index.html133560138868684801 0
 81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\gopd\CHANGELOG.md133555075633859328 0
 94C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@babel\code-frame\lib\index.js133555051972275216 0
 93C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2021\BinaryXor.js133555075638689227 0
@@ -104,7 +104,7 @@
 74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\path-parse133555075633237965 1
 94C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\set-function-name\CHANGELOG.md133555075636390575 0
 81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\nanoid\non-secure133555117549288753 1
-71C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\presentacio.html133560105022216427 0
+71C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\presentacio.html133560116880694500 0
 86C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\memorystream\README.md133555075638033240 0
 116C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\path-scurry\node_modules\lru-cache\dist\esm\index.js133555075633784419 0
 97C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\typed-array-byte-length\.eslintrc133555075632787698 0
@@ -115,7 +115,7 @@
 89C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\node-addon-api\LICENSE.md133555051977176036 0
 112C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\screen-orientation.js133555051995146591 0
 99C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@swc\helpers\_\_object_spread_props133555051990663972 1
-77C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\components\header.html133560099890009093 0
+77C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\components\header.html133560138983342047 0
 101C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2021\RawBytesToNumeric.js133555075646508617 0
 95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\set-function-name\tsconfig.json133555075636294461 0
 101C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\csso\cjs\replace\atrule\keyframes.cjs133555051977481091 0
@@ -138,7 +138,7 @@
 91C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\svgo\plugins\removeTitle.js133555051981960076 0
 100C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\regexp.prototype.flags\test\tests.js133555075635036466 0
 85C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\ansi-regex\index.d.ts133555075633556703 0
-77C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.975ef6c8.js.map133560104556442657 0
+77C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.975ef6c8.js.map133560248687546665 0
 90C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2019\Invoke.js133555075643091619 0
 95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\regions\YT.js133555051997383627 0
 120C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\path-scurry\node_modules\lru-cache\dist\esm\index.js.map133555075635161826 0
@@ -193,12 +193,12 @@
 136C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133555052062260484 0
 79C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\semver\index.js133555051975580582 0
 109C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\5\AbstractRelationalComparison.js133555075637198245 0
-61C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets133558669949710039 1
+61C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets133560245744917470 1
 81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\get-port\index.js133555051995848431 0
 116C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133555051981947465 0
 78C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\tslib\tslib.js133555051972677191 0
 137C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\has.js133555051980075017 0
-70C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\categories.html133560105022216427 0
+70C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\categories.html133560248685722528 0
 95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\shell-quote\.github\FUNDING.yml133555075635428271 0
 94C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2022\CreateHTML.js133555075639960371 0
 81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\minimatch\LICENSE133555075632453443 0
@@ -206,10 +206,10 @@
 115C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\resolve\test\resolver\nested_symlinks\mylib\sync.js133555075637272719 0
 85C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\5\Type.js133555075649945743 0
 68C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\.bin133555117554391823 1
-66C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\detall.html133560105022114922 0
+66C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\detall.html133560116449993494 0
 105C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\resolve\test\resolver\false_main\index.js133555075636956689 0
 92C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2022\BinaryOr.js133555075638668415 0
-68C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\enllacos.html133560105022114922 0
+68C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\enllacos.html133560116604798303 0
 82C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\pagesStyles\presentacio.css133560088411869204 0
 112C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\core\src\requests\ParcelConfigRequest.js133555052010578956 0
 103C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\jackspeak\dist\commonjs\parse-args.d.ts133555075635510586 0
@@ -234,13 +234,13 @@
 121C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\helpers\isFullyPopulatedPropertyDescriptor.js133555075643685785 0
 101C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\css-tree\cjs\syntax\node\Function.cjs133555051979094394 0
 81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\wrap-ansi\license133555075632426076 0
-74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\configCSS\reset.css133558694613237430 0
+74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\configCSS\reset.css133560178504909288 0
 116C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index.cjs133555052004334817 0
 96C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2024\WeakRefDeref.js133555075650708121 0
 84C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\escape-string-regexp133555051972041492 1
 92C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\posthtml-parser\package.json133555051975539841 0
 84C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\safe-buffer\index.js133555051971689469 0
-65C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\styles.css133560102938929372 0
+65C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\styles.css133560225055710387 0
 75C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\mime\cli.js133555117549002451 0
 89C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\utils\src\hash.js133555052005306253 0
 102C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2015\GetValueFromBuffer.js133555075642341648 0
@@ -250,7 +250,7 @@
 89C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\core\lib\types.js133555052011017859 0
 78C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\weak-lru-cache133555051973913119 1
 94C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\nth-check\lib\esm\compile.d.ts133555051976199810 0
-81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\pagesStyles\categories.css133560087836522460 0
+81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\pagesStyles\categories.css133560234564094543 0
 68C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@swc133555125953852785 1
 95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\reporter-tracer\LICENSE133555052003262208 0
 102C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\helpers\integerToNBytes.js133555075642958083 0
@@ -271,7 +271,7 @@
 87C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\call-bind\.eslintignore133555075632426076 0
 86C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\supports-color\license133555051971362673 0
 109C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133555052003782628 0
-72C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\configCSS\var.css133560098472029868 0
+72C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\configCSS\var.css133560175742935545 0
 88C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\5\ToInt32.js133555075649030597 0
 94C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\core\lib\AssetGraph.js133555052009741093 0
 73C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@mischnic133555051967662551 1
@@ -308,6 +308,7 @@
 82C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\js-tokens\index.js133555051971895304 0
 70C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@pkgjs133555075629774540 1
 109C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\csso\node_modules\css-tree\cjs\utils\List.cjs133555052004469885 0
+87C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets\stillnessInWonderland.jpg133560244882022976 0
 73C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@trysound133555051967744859 1
 101C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2024\BigInt\unaryMinus.js133555075650243046 0
 84C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\resolve\test\core.js133555075635460848 0
@@ -1460,6 +1461,7 @@
 85C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\which-boxed-primitive133555075634648205 1
 120C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133555051976040647 0
 87C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\lmdb\dist\index.cjs.map133555051985133901 0
+80C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\BlankCanvas.74fb2bb7.jpg133560248687336357 0
 87C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\typed-array-buffer\test133555075633704571 1
 72C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\xxhashjs133555117549679614 1
 148C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133555051976300112 0
@@ -1952,6 +1954,7 @@
 92C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\typed-array-length\.eslintrc133555075632506793 0
 89C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\typed-array-length\.nycrc133555075632858991 0
 106C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\css-select\node_modules\entities\readme.md133555051979687981 0
+77C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets\BlankCanvas.jpg133560245423605428 0
 87C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\side-channel\index.d.ts133555075634735407 0
 96C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2023\WeakRefDeref.js133555075650708121 0
 109C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\rest-parameters.js133555051994982925 0
@@ -2450,6 +2453,7 @@
 96C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\glob\dist\commonjs\glob.d.ts.map133555075635450847 0
 112C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\strip-ansi-cjs\node_modules\ansi-regex\readme.md133555075633362129 0
 82C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\is-string\index.js133555075633556703 0
+70C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets\EDGE.jpg133560245772841968 0
 86C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\is-regex\.eslintignore133555075632747815 0
 85C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\postcss\lib\list.d.ts133555117550313175 0
 97C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\source-map-js\lib\mapping-list.js133555051973066495 0
@@ -2677,6 +2681,7 @@
 95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\source-map-js\lib\quick-sort.js133555051973588941 0
 104C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\source-map-js\lib\source-map-consumer.js133555051973937092 0
 105C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\cross-spawn\node_modules\semver\README.md133555075634087334 0
+71C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets\drop7.jpg133560243572683008 0
 80C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\lmdb\src\txn.cpp133555051983445657 0
 96C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\source-map-js\lib\source-node.js133555051974486898 0
 95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\regions\SN.js133555051995555740 0
@@ -2811,6 +2816,7 @@
 87C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\htmlnano\docs\README.md133555051982383590 0
 96C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\rimraf\dist\commonjs\fs.d.ts.map133555075638679223 0
 89C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\shell-quote\example\op.js133555075634467481 0
+91C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\ACouriousTalesOfTrials.679c338b.jpg133560248687512213 0
 94C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\object-inspect\test\lowbyte.js133555075635428271 0
 109C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow133555051984256239 0
 102C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\template.js133555051996026706 0
@@ -6225,6 +6231,7 @@
 108C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2023\TypedArrayCreateSameType.js133555075650088793 0
 105C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2023\TypedArrayElementSize.js133555075650100839 0
 91C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2020\ToInt32.js133555075649009856 0
+90C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\stillnessInWonderland.14297dbe.jpg133560248687336357 0
 97C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2023\UnicodeEscape.js133555075650278586 0
 118C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2023\ValidateAndApplyPropertyDescriptor.js133555075650545761 0
 91C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\es-abstract\2023\WeekDay.js133555075650764635 0
@@ -8827,6 +8834,7 @@
 118C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\mdn-text-decoration-line.js133555051993385743 0
 123C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\mdn-text-decoration-shorthand.js133555051993399259 0
 81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@trysound\sax\lib133555051971644186 1
+95C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\sometimesIMightBeIntrovert.6ed0dad8.jpg133560248687336357 0
 119C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133555051993409310 0
 109C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\media-fragments.js133555051993423195 0
 118C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133555051993434724 0
@@ -8905,6 +8913,7 @@
 105C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\videotracks.js133555051996698664 0
 110C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\view-transitions.js133555051996708818 0
 103C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\wake-lock.js133555051996777161 0
+88C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets\ACouriousTalesOfTrials.jpg133560245154420958 0
 105C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\wasm-bigint.js133555051996787181 0
 110C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js133555051996797139 0
 114C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js133555051996817147 0
@@ -9055,6 +9064,7 @@
 99C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@swc\helpers\_\_to_consumable_array133555051990938251 1
 91C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@swc\helpers\_\_ts_decorate133555051990963076 1
 91C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@swc\helpers\_\_ts_metadata133555051991010394 1
+78C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets\No_Thank_you.jpg133560144166630390 0
 89C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@swc\helpers\_\_ts_values133555051991036321 1
 109C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@swc\helpers\_\_unsupported_iterable_to_array133555051991053951 1
 100C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@swc\helpers\_\_wrap_async_generator133555051991102356 1
@@ -9532,6 +9542,7 @@
 92C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\transformer-html\src133555051990503205 1
 111C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133555051990450674 0
 102C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\transformer-html\src\inline.js133555051990515979 0
+92C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets\sometimesIMightBeIntrovert.jpg133560244143676488 0
 111C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\transformer-html\lib\HTMLTransformer.js133555051990417471 0
 102C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\transformer-html\lib\inline.js133555051990489286 0
 91C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\node_modules\@parcel\transformer-css\lib133555051992612464 1
@@ -10561,9 +10572,14 @@
 74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\detall.5f49d7f5.js133560102940525517 0
 76C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\enllacos.a45a3d90.js133560102940515477 0
 83C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\presentacio.dff5568f.js.map133560102940525517 0
-78C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.4d663569.css.map133560102940525517 0
 80C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\enllacos.a45a3d90.js.map133560102940585298 0
-73C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.975ef6c8.js133560104556407768 0
-67C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\detall.html133560105023965723 0
-72C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\presentacio.html133560105024014576 0
-71C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\categories.html133560105024032073 0
+74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\src\assets\GreyArea.jpg133560244526881698 0
+81C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\No_Thank_you.048eee64.jpg133560248687336357 0
+74C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\drop7.5425ff03.jpg133560248687482143 0
+72C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\presentacio.html133560248687512213 0
+73C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.975ef6c8.js133560248687512213 0
+73C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\EDGE.b38022fb.jpg133560248687512213 0
+77C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\GreyArea.918af831.jpg133560248687546665 0
+78C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\index.4d663569.css.map133560248687546665 0
+67C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\detall.html133560248687880418 0
+71C:\Users\sergi\Documents\UOC\Eines_HTML_CSS_1\PAC1\dist\categories.html133560248687880418 0

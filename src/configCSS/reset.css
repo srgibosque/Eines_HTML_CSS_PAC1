@@ -12,3 +12,7 @@
   text-decoration: none;
   color: inherit;
 }
+
+* h3, p {
+  margin: 0;
+}

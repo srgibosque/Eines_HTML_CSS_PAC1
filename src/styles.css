@@ -11,13 +11,60 @@
 
 html{
   font-family: "Poppins", sans-serif;
-  color: var(--pureWhiteColor);
+  color: var(--lightGrey);
 }
 
 body{
   background-color: var(--grey);
 }
 
+main{
+  padding: 24px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+p{
+  font-size: 14px;
+}
+
+header{
+  border-bottom: 1px solid var(--lightGrey);
+  padding: 0 24px;
+}
+
+header nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav ul{
+  display: flex;
+  align-items: flex-end;
+  align-self: stretch;
+}
+
+header nav ul li{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: stretch;
+  padding: 16px;
+}
+
+header nav ul li:hover{
+  color: var(--primaryColor);
+}
+
 .active{
-  font-weight: 800;
+  border-bottom: 2px solid var(--primaryColor);
+  color: var(--primaryColor);
+}
+
+.logo{
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
 }

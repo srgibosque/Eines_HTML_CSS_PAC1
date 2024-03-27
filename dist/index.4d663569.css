@@ -4,6 +4,7 @@
   --pureWhiteColor: white;
   --pureBlackColor: black;
   --grey: #252525;
+  --lightGrey: #f8f8f8;
 }
 
 * body {
@@ -19,6 +20,10 @@
 * a {
   color: inherit;
   text-decoration: none;
+}
+
+* h3, p {
+  margin: 0;
 }
 
 .background-image .menu {
@@ -89,8 +94,52 @@
   }
 }
 
+.albums {
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.album {
+  border-radius: 8px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 24px;
+  display: inline-flex;
+}
+
+.album:hover {
+  background-color: #1f3026;
+  background-color: var(--secondaryColor);
+}
+
+.album img {
+  border-radius: 8px;
+  width: 240px;
+  height: 240px;
+}
+
+.album h3 {
+  color: var(--lightGrey);
+  font-family: EB Garamond;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.album .year-songs {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 8px;
+  height: auto;
+  display: flex;
+}
+
 html {
-  color: var(--pureWhiteColor);
+  color: var(--lightGrey);
   font-family: Poppins, sans-serif;
 }
 
@@ -99,7 +148,56 @@ body {
   background-color: var(--grey);
 }
 
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+p {
+  font-size: 14px;
+}
+
+header {
+  border-bottom: 1px solid #f8f8f8;
+  border-bottom: 1px solid var(--lightGrey);
+  padding: 0 24px;
+}
+
+header nav {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+header nav ul {
+  align-self: stretch;
+  align-items: flex-end;
+  display: flex;
+}
+
+header nav ul li {
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  padding: 16px;
+  display: flex;
+}
+
+header nav ul li:hover {
+  color: var(--primaryColor);
+}
+
 .active {
-  font-weight: 800;
+  border-bottom: 2px solid #c63b26;
+  border-bottom: 2px solid var(--primaryColor);
+  color: var(--primaryColor);
+}
+
+.logo {
+  font-optical-sizing: auto;
+  font-family: EB Garamond, serif;
+  font-style: normal;
+  font-weight: 600;
 }
 /*# sourceMappingURL=index.4d663569.css.map */
