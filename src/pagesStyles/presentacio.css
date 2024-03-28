@@ -1,0 +1,26 @@
+/* main .presentacio{
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+} */
+
+.presentacio img{
+  width: 280px;
+  float: right;
+  margin: 0 0 2em 2em;
+}
+
+.presentacio p{
+  margin-bottom: 32px;
+}
+
+.presentacio p:last-child{
+  text-align: right;
+}
+
+@media (max-width: 576px) {
+  .presentacio img{
+    width: 220px;
+    margin: 0 0 1em 1em;
+  }
+}

@@ -48,7 +48,6 @@
 .menu nav ul li {
   outline: 1px solid #fff;
   outline: 1px solid var(--pureWhiteColor);
-  border-radius: 16px;
   justify-content: center;
   align-items: center;
   padding: 4px 24px;
@@ -103,7 +102,6 @@
 }
 
 .album {
-  border-radius: 8px;
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
@@ -117,7 +115,6 @@
 }
 
 .album img {
-  border-radius: 8px;
   width: 240px;
   height: 240px;
 }
@@ -185,7 +182,6 @@
 .review div {
   flex-direction: column;
   gap: 32px;
-  margin-bottom: 32px;
   display: flex;
 }
 
@@ -200,6 +196,27 @@ section > h3 {
 
 .review p:last-child {
   text-align: right;
+}
+
+.presentacio img {
+  float: right;
+  width: 280px;
+  margin: 0 0 2em 2em;
+}
+
+.presentacio p {
+  margin-bottom: 32px;
+}
+
+.presentacio p:last-child {
+  text-align: right;
+}
+
+@media (width <= 576px) {
+  .presentacio img {
+    width: 220px;
+    margin: 0 0 1em 1em;
+  }
 }
 
 html {
