@@ -11,15 +11,6 @@
   border-radius: 8px;
 }
 
-.album-info h3{
-  color: var(--lightGrey);
-  font-family: "EB Garamond";
-  font-size: 36px;
-  font-style: italic;
-  font-weight: 600;
-  line-height: normal;
-}
-
 .song{
   padding: 8px 16px;
   display: flex;
@@ -46,4 +37,22 @@
 
 .song-number-title > p{
   color: var(--secondaryText);
+}
+
+.review div{
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-bottom: 32px;
+}
+
+section>h3{
+  margin: 32px 0;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--lightGrey);
+  border-top: 1px solid var(--lightGrey);
+}
+
+.review p:last-child{
+  text-align: right;
 }

@@ -19,24 +19,42 @@ body{
 }
 
 main{
-  padding: 0 24px;
+  padding: 100px 24px;
   max-width: 900px;
   margin: 0 auto;
+}
+
+h3{
+  color: var(--lightGrey);
+  font-family: "EB Garamond";
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
 }
 
 p{
   font-size: 14px;
 }
 
+p a:hover{
+  color: var(--primaryColor);
+}
+
 header{
   border-bottom: 1px solid var(--lightGrey);
-  padding: 0 24px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--grey);
 }
 
 header nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 0 24px;
 }
 
 header nav ul{
