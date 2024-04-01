@@ -179,6 +179,21 @@
   color: var(--secondaryText);
 }
 
+.song .like-time {
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
+  display: flex;
+}
+
+.like-time button {
+  background-color: #0000;
+  border: none;
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
+}
+
 .review div {
   flex-direction: column;
   gap: 32px;
@@ -299,5 +314,9 @@ header nav ul li:hover {
   font-family: EB Garamond, serif;
   font-style: normal;
   font-weight: 600;
+}
+
+button .material-icons {
+  color: var(--lightGrey);
 }
 /*# sourceMappingURL=index.4d663569.css.map */

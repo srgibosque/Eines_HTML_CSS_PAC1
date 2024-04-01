@@ -39,6 +39,21 @@
   color: var(--secondaryText);
 }
 
+.song .like-time{
+ display: flex;
+ flex-direction: row;
+ gap: 16px;
+ align-items: center;
+}
+
+.like-time button{
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background-color: transparent;
+}
+
 .review div{
   display: flex;
   flex-direction: column;

@@ -86,3 +86,7 @@ header nav ul li:hover{
   font-weight: 600;
   font-style: normal;
 }
+
+button .material-icons{
+  color: var(--lightGrey);
+}
