@@ -75,6 +75,14 @@ header nav ul li:hover{
   color: var(--primaryColor);
 }
 
+footer{
+  display: flex;;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 24px;
+}
+
 .active{
   border-bottom: 2px solid var(--primaryColor);
   color: var(--primaryColor);
@@ -89,4 +97,8 @@ header nav ul li:hover{
 
 button .material-icons{
   color: var(--lightGrey);
+}
+
+header svg {
+  padding: 16px;
 }

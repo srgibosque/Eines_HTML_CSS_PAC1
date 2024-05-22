@@ -303,6 +303,14 @@ header nav ul li:hover {
   color: var(--primaryColor);
 }
 
+footer {
+  background-color: #000;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px;
+  display: flex;
+}
+
 .active {
   border-bottom: 2px solid #c63b26;
   border-bottom: 2px solid var(--primaryColor);
@@ -318,5 +326,9 @@ header nav ul li:hover {
 
 button .material-icons {
   color: var(--lightGrey);
+}
+
+header svg {
+  padding: 16px;
 }
 /*# sourceMappingURL=index.4d663569.css.map */
