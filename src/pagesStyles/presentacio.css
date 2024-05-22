@@ -1,9 +1,3 @@
-/* main .presentacio{
-  display: flex;
-  flex-direction: column;
-  gap: 32px;
-} */
-
 .presentacio img{
   width: 280px;
   float: right;
@@ -18,9 +12,10 @@
   text-align: right;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 699px) {
   .presentacio img{
-    width: 220px;
-    margin: 0 0 1em 1em;
+    float: none;
+    width: 100%;
+    margin: 0 0 16px 0;
   }
 }

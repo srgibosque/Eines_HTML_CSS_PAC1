@@ -1,13 +1,13 @@
 /* INDEX PAGE STYLES */
 
-.background-image .menu{
+.menu{
   margin: 0;
   position: fixed;
   top: 128px;
   left: 64px
 }
 
-.background-image h1{
+.menu h1{
   font-size: 64px;
   color: var(--pureWhiteColor);
   margin: 0;
@@ -25,8 +25,6 @@
   padding: 4px 24px;
   outline: 1px solid var(--pureWhiteColor);
 }
-  
-
 
 .menu nav ul li:hover{
   background-color: var(--primaryColor);
@@ -34,9 +32,13 @@
 }
 
 .background-image{
-  background-image: url('../assets/portadaLittleSimz.jpg');
-  background-size: cover;
-  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image covers the entire viewport */
+  z-index: -1; /* Places the image behind any other content */
 }
 
 @media (max-width: 576px) {
@@ -46,16 +48,16 @@
     align-items: center;
   }
 
-  .background-image .menu{
+  .menu{
     position: static;
-    margin: 0 64px;
+    margin: 64px;
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 16px;
   }
 
-  .background-image h1{
+  .menu h1{
     font-size: 48px;
   }
 

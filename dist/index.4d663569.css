@@ -27,14 +27,14 @@
   margin: 0;
 }
 
-.background-image .menu {
+.menu {
   margin: 0;
   position: fixed;
   top: 128px;
   left: 64px;
 }
 
-.background-image h1 {
+.menu h1 {
   color: var(--pureWhiteColor);
   margin: 0;
   font-size: 64px;
@@ -62,9 +62,13 @@
 }
 
 .background-image {
-  background-image: url("portadaLittleSimz.36088f3e.jpg");
-  background-size: cover;
-  height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 @media (width <= 576px) {
@@ -74,16 +78,16 @@
     display: flex;
   }
 
-  .background-image .menu {
+  .menu {
     flex-direction: column;
     align-items: flex-start;
     gap: 16px;
-    margin: 0 64px;
+    margin: 64px;
     display: inline-flex;
     position: static;
   }
 
-  .background-image h1 {
+  .menu h1 {
     font-size: 48px;
   }
 
@@ -227,10 +231,11 @@ section > h3 {
   text-align: right;
 }
 
-@media (width <= 576px) {
+@media (width <= 699px) {
   .presentacio img {
-    width: 220px;
-    margin: 0 0 1em 1em;
+    float: none;
+    width: 100%;
+    margin: 0 0 16px;
   }
 }
 

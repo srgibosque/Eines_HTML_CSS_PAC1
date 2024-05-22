@@ -11,7 +11,11 @@
   <include src="src/components/header.html"></include>
   <main>
     <div class="presentacio">
-      <img src="assets/LSPhoto.jpg" alt="Little Simz en concert">
+      <picture>
+        <source media="(min-width: 700px)" srcset="assets/LSPhoto.jpg">
+        <source media="(max-width: 699px)" srcset="assets/LSPhoto_ArtDirection.jpg">
+        <img src="assets/LSPhoto.jpg" alt="Little Simz en concert">
+      </picture>
       <p>
         Aquesta web tracta de ser una enciclopèdia virtual completa dedicada a l'artista britànica Little Simz. Aquí, els fans poden submergir-se en tot el seu univers musical, explorant la seva discografia completa, descobrint cada una de les seves cançons i llegint ressenyes detallades dels seus àlbums.
       </p>
