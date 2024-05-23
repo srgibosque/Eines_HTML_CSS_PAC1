@@ -1,8 +1,7 @@
 .albums{
-  display: flex;
-  align-items: flex-start;
-  align-content: flex-start;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
 }
 
 .album{
@@ -11,15 +10,17 @@
   align-items: flex-start;
   padding: 16px;
   gap: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.album img {
+  width: 100%;
+  height: auto;
 }
 
 .album:hover{
   background-color: var(--secondaryColor);
-}
-
-.album img{
-  width: 240px;
-  height: 240px;
 }
 
 .album h3{
@@ -38,4 +39,16 @@
   align-self: stretch;
   height: auto;
   color: var(--secondaryText);
+}
+
+@media (max-width: 768px) {
+  .albums {
+      grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .albums {
+      grid-template-columns: 1fr;
+  }
 }
