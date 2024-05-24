@@ -102,3 +102,37 @@ button .material-icons{
 header svg {
   padding: 16px;
 }
+
+.ham-menu{
+  display: none;
+}
+
+@media (max-width: 480px) {
+  .ham-menu{
+    display: flex;
+  }
+
+  header nav{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .menu-logo-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+  header nav ul {
+    display: none;
+    background-color: var(--pureBlackColor);
+    padding: 16px 0;
+  }
+
+  header nav ul.clicked {
+    display: flex;
+    flex-direction: column;
+  }
+}
