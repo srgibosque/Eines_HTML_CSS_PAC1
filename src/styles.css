@@ -7,6 +7,8 @@
 @import 'pagesStyles/enllacos.css';
 @import 'pagesStyles/presentacio.css';
 
+@import 'animations/animations.css';
+
 /* GENERAL STYLES */
 
 html{
@@ -103,12 +105,12 @@ header svg {
   padding: 16px;
 }
 
-.ham-menu{
+.ham-container{
   display: none;
 }
 
 @media (max-width: 480px) {
-  .ham-menu{
+  .ham-container{
     display: flex;
   }
 
@@ -127,12 +129,13 @@ header svg {
 
   header nav ul {
     display: none;
-    background-color: var(--pureBlackColor);
     padding: 16px 0;
+    background-color: var(--pureBlackColor);
   }
 
-  header nav ul.clicked {
+  header nav ul.showMenu {
     display: flex;
     flex-direction: column;
+
   }
 }

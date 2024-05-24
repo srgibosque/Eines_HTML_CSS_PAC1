@@ -1,0 +1,44 @@
+:root {
+  --icon-size: 48;
+  --icon-bar-size: 8;
+  --icon-translation-size: calc((var(--icon-size) - var(--icon-bar-size)) / 2);
+}
+
+.ham-container{
+  display: grid;
+  place-items: center;
+}
+
+.hamburger-icon {
+  cursor: pointer;
+  fill: currentColor;
+  max-width: 100%;
+  vertical-align: baseline;
+}
+
+.hamburger-icon rect {
+  transition: all 0.3s ease-in-out;
+}
+
+.hamburger-icon.animate rect {
+  fill: var(--primaryColor);
+}
+
+.hamburger-icon.animate .top,
+.hamburger-icon.animate .bottom {
+  transform-origin: center;
+}
+
+.hamburger-icon.animate .top {
+  transform: rotate(45deg)
+    translate(0, calc(var(--icon-translation-size) * 1px));
+}
+
+.hamburger-icon.animate .bottom {
+  transform: rotate(-45deg)
+    translate(0, calc(var(--icon-translation-size) * -1px));
+}
+
+.hamburger-icon.animate .middle {
+  opacity: 0;
+}
