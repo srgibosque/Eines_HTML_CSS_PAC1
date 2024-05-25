@@ -48,6 +48,15 @@
   background-color: transparent;
 }
 
+.material-icons {
+  font-size: 50px;
+  transition: transform 0.15s ease-out;
+}
+
+.material-icons:hover {
+  transform: scale(1.2);
+}
+
 .review div{
   display: flex;
   flex-direction: column;
