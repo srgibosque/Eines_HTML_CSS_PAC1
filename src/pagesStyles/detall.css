@@ -5,12 +5,6 @@
   border-bottom: 1px solid var(--lightGrey);
 }
 
-.album-info img{
-  width: 240px;
-  height: 240px;
-  border-radius: 8px;
-}
-
 .song{
   padding: 8px 16px;
   display: flex;
@@ -69,4 +63,10 @@ section>h3{
 
 .review p:last-child{
   text-align: right;
+}
+
+@media (max-width: 480px) {
+  .album-info{
+    flex-direction: column;
+  }
 }

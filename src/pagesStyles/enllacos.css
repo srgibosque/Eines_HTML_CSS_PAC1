@@ -1,0 +1,9 @@
+.clip-svg {
+  clip-path: url(#myClip);
+}
+
+.clipped-image{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
