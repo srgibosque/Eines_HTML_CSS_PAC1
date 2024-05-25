@@ -1,6 +1,7 @@
 const currentUrl = window.location.href;
 const navLinks = document.querySelectorAll('header nav ul li a');
 const likeBtns = document.querySelectorAll('.songs .song span');
+const hamIcon = document.getElementById('ham-icon');
 
 navLinks.forEach((link) => {
   if (link.href === currentUrl) {
@@ -20,4 +21,8 @@ likeBtns.forEach((btn) => {
       isLiked = false;
     }
   });
+});
+
+hamIcon.addEventListener('click', () => {
+  hamIcon.classList.toggle('animate')
 });
