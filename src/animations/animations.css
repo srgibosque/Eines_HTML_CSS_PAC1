@@ -7,6 +7,7 @@
 .ham-container{
   display: grid;
   place-items: center;
+  all: unset;
 }
 
 .hamburger-icon {
