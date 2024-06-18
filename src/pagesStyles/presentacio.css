@@ -1,20 +1,24 @@
+.presentacio {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
 .presentacio img{
-  float: right;
   margin: 0 0 2em 2em;
+  width: 100%;
+  height: auto;
 }
 
 .presentacio p{
   margin-bottom: 32px;
 }
 
-.presentacio p:last-child{
-  text-align: right;
-}
-
-@media (max-width: 699px) {
+@media (max-width: 840px) {
+  .presentacio{
+    display: block;
+  }
   .presentacio img{
-    float: none;
-    width: 100%;
     margin: 0 0 16px 0;
   }
 }
