@@ -6,7 +6,12 @@
   <meta name="description" content="Detall dels àlbums. Mostra les cançons i una review de l'àlbum">
   <title>Little Simz</title>
   <link rel="stylesheet" href="styles.css" />
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
+   <link rel="preload" href="https://fonts.googleapis.com/icon?family=Material+Icons" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </noscript>
+
   <script type="module" src="index.js" defer></script>
 </head>
 <body>
@@ -18,10 +23,13 @@
           <img 
           src="assets/No_Thank_you-900.jpg" 
           alt="portada disc"
-          srcset="assets/No_Thank_you-320.jpg 320w,
-          assets/No_Thank_you-640.jpg 640w,
-          assets/No_Thank_you-900.jpg 900w"
-          sizes="(max-width: 480px) 80vw, (max-width: 768px) 40vw, 25vw">
+          width="900"
+          height="900"
+          srcset="assets/No_Thank_you-320.jpg?as=webp 320w,
+          assets/No_Thank_you-640.jpg?as=webp 640w,
+          assets/No_Thank_you-900.jpg?as=webp 900w"
+          sizes="(max-width: 480px) 80vw, (max-width: 768px) 40vw, 25vw"
+          type="image/webp">
           <div class="album-data">
             <h3>NO THANK YOU</h3>
             <p>Little Simz</p>
@@ -239,10 +247,13 @@
             <img 
             src="assets/drop7-900.jpg" 
             alt="portada disc"
-            srcset="assets/drop7-320.jpg 320w,
-            assets/drop7-640.jpg 640w,
-            assets/drop7-900.jpg 900w"
-            sizes="(max-width: 480px) 80vw, (max-width: 768px) 40vw, 25vw">
+            width="900"
+            height="900"
+            srcset="assets/drop7-320.jpg?as=webp 320w,
+            assets/drop7-640.jpg?as=webp 640w,
+            assets/drop7-900.jpg?as=webp 900w"
+            sizes="(max-width: 480px) 80vw, (max-width: 768px) 40vw, 25vw"
+            type="image/webp">
             <h3>Drop 7</h3>
             <div class="year-songs">
               <p>2024</p>
@@ -255,10 +266,13 @@
             <img 
             src="assets/sometimesIMightBeIntrovert-900.jpg" 
             alt="portada disc"
-            srcset="assets/sometimesIMightBeIntrovert-320.jpg 320w,
-            assets/sometimesIMightBeIntrovert-640.jpg 640w,
-            assets/sometimesIMightBeIntrovert-900.jpg 900w"
-            sizes="(max-width: 480px) 80vw, (max-width: 768px) 40vw, 25vw">
+            width="900"
+            height="900"
+            srcset="assets/sometimesIMightBeIntrovert-320.jpg?as=webp 320w,
+            assets/sometimesIMightBeIntrovert-640.jpg?as=webp 640w,
+            assets/sometimesIMightBeIntrovert-900.jpg?as=webp 900w"
+            sizes="(max-width: 480px) 80vw, (max-width: 768px) 40vw, 25vw"
+            type="image/webp">
             <h3>Sometimes I Might Be In...</h3>
             <div class="year-songs">
               <p>2021</p>
@@ -271,10 +285,13 @@
             <img 
             src="assets/GreyArea-900.jpg" 
             alt="portada disc"
-            srcset="assets/GreyArea-320.jpg 320w,
-            assets/GreyArea-640.jpg 640w,
-            assets/GreyArea-900.jpg 900w"
-            sizes="(max-width: 480px) 80vw, (max-width: 768px) 40vw, 25vw">
+            width="900"
+            height="900"
+            srcset="assets/GreyArea-320.jpg?as=webp 320w,
+            assets/GreyArea-640.jpg?as=webp 640w,
+            assets/GreyArea-900.jpg?as=webp 900w"
+            sizes="(max-width: 480px) 80vw, (max-width: 768px) 40vw, 25vw"
+            type="image/webp">
             <h3>GREY Area</h3>
             <div class="year-songs">
               <p>2019</p>
