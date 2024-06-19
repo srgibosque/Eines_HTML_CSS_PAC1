@@ -1,8 +1,21 @@
+article img {
+  width: 100%;
+  height: auto;
+}
+
 .album-info{
   display: flex;
   gap: 16px;
   padding: 24px 0;
   border-bottom: 1px solid var(--lightGrey);
+}
+
+.album-info img {
+  flex: 1;
+}
+
+.album-info .album-data {
+  flex: 3;
 }
 
 .song{
@@ -73,7 +86,7 @@ section>h3{
   text-align: right;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 500px) {
   .album-info{
     flex-direction: column;
   }
