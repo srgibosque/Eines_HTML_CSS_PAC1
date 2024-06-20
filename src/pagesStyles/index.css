@@ -4,7 +4,7 @@
   margin: 0;
   position: fixed;
   top: 128px;
-  left: 64px
+  left: 64px;
 }
 
 .menu h1{
@@ -37,17 +37,11 @@
   left: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Ensures the image covers the entire viewport */
-  z-index: -1; /* Places the image behind any other content */
+  object-fit: cover;
+  z-index: -1; 
 }
 
 @media (max-width: 576px) {
-  .background-image{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
   .menu{
     position: static;
     margin: 64px;
