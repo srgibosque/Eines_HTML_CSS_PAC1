@@ -22,14 +22,23 @@
   <script type="module" src="index.js" defer></script>
 </head>
 <body>
-  <img 
-  src="assets/portadaLittleSimz.jpg"
-  alt="Little Simz portada"
-  srcset="assets/portadaLittleSimz.jpg?as=webp 1400w,
-          assets/portadaLittleSimz_mobile.jpg?as=webp 451w"
-  sizes="(max-width: 451px) 451w, 100vw"
-  type="image/webp"
-  class="background-image">
+  <picture>
+    <source
+      class="background-image" 
+      media="(min-width: 451px)" 
+      srcset="assets/portadaLittleSimz.jpg?as=webp" 
+      type="image/webp"
+      width="1400"
+      height="933">
+    <source
+      class="background-image" 
+      media="(max-width: 450px)" 
+      srcset="assets/portadaLittleSimz_mobile.jpg?as=webp" 
+      type="image/webp"
+      width="451"
+      height="932">
+    <img src="assets/portadaLittleSimz.jpg" class="background-image" alt="Imatge de portada" width="1400" height="933">
+  </picture>
     <div class="menu">
       <h1 class="logo">Little Simz</h1>
       <nav>
